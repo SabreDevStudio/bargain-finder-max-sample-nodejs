@@ -9,7 +9,7 @@ What does the sample app look like when it runs? Here’s a screen shot:
 
 ![App Screenshot](./docs/bfm_sample_01.png)
 
-# Read the Article
+## Read the Article
 
 There's [an article](https://blog.developer.sabre.com/) serving as a partner to this sample app source code. You’ll find explanations and additional resources written in it to add context whenever possible. 
 
