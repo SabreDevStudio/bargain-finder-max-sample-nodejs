@@ -1,13 +1,15 @@
-# Searching for Airfare with the Bargain Finder Max API
+# Searching for the Best Air Offers with the Bargain Finder Max API
 ## Introducing this Code Sample
 
-We offer an API called [Bargain Finder Max.](https://developer.sabre.com/docs/read/rest_apis/air/search/bargain_finder_max) It’s a highly capable service empowering software developers to access the Sabre air shopping engine to find low-cost fares. It’s built to be fast and [flexible.](http://files.developer.sabre.com/doc/providerdoc/shopping/BargainFinderMax_Help/BargainFinderMax_Help.htm#Getting_Started/FeaturesofBFM.htm) 
+We offer an API called [Bargain Finder Max](https://developer.sabre.com/docs/read/rest_apis/air/search/bargain_finder_max). It’s a highly capable service empowering software developers to access Sabre’s advanced air shopping product to find the best air offers. It’s built to be fast, [flexible](http://files.developer.sabre.com/doc/providerdoc/shopping/BargainFinderMax_Help/BargainFinderMax_Help.htm#Getting_Started/FeaturesofBFM.htm), and highly customizable.
 
-Bargain Finder Max (BFM) is one of our more popular APIs, and that influenced our choice to create a new sample app. It shows how developers can easily call BFM, parse the results, and display the content. Our goal is making it quicker for developers to get started using the API. 
+Bargain Finder Max (BFM) is one of our more popular APIs.  It shows how developers can easily call Bargain Finder Max, parse the results, and display the content. Our goal is making it quicker for developers to get started using the API.
 
 What does the sample app look like when it runs? Here’s a screen shot:
 
 ![App Screenshot](./docs/bfm_sample_01.png)
+
+You'll see this sample app is command-line driven, and text-only. The goal is reducing the complexity of the sample app code by simplifying the UI. To get you up and running and learning quickly.
 
 ## Read the Article
 
@@ -23,7 +25,7 @@ The sample app is written in NodeJS. You’ll need to have its run-time installe
 
 ## Cloning with Git
 
-Take a copy of the source code from our [repo stored on GitHub.](https://github.com/SabreDevStudio) When you browse the BFM sample app repo you’ll find the green button labeled “clone”. Clicking it reveals the URL you’ll use to `git clone`, which is how source code is first copied down from the server to your computer. 
+Take a copy of the source code from our [repo stored on GitHub.](https://github.com/SabreDevStudio/bargain-finder-max-sample-nodejs) When you browse the Bargain Finder Max sample app repo you’ll find the green button labeled “clone”. Clicking it reveals the URL you’ll use to `git clone`, which is how source code is first copied down from the server to your computer. 
 
 ## Getting Sabre API Credentials
 
@@ -79,7 +81,7 @@ Changing search criteria is easy. Simply open up the app’s source code, and lo
 
 ## Next Steps
 
-Make use of this sample app as a testing tool. It’s a simple, flexible, jumping-off point for learning how to use Sabre APIs in general, and Bargain Finder Max in particular. Look up the [BFM docs](https://developer.sabre.com/docs/read/rest_apis/air/search/bargain_finder_max) and discover all that it can do. Find something interesting? Call it by changing the request attribute values found in the file [bfm_model.js.](./src/bfm_model.js) Save and run to see what new capabilities do. 
+Make use of this sample app as a testing tool. It’s a simple, flexible, jumping-off point for learning how to use Sabre APIs in general, and Bargain Finder Max in particular. Look up the [Bargain Finder Max docs](https://developer.sabre.com/docs/read/rest_apis/air/search/bargain_finder_max) and discover all that it can do. Find something interesting? Call it by changing the request attribute values found in the file [bfm_model.js.](./src/bfm_model.js) Save and run to see what new capabilities do. 
 
 Get in touch with us. GitHub allows communication through its repo-level issue and pull request channels. We also have an active community on [Stack Overflow.](https://stackoverflow.com/questions/tagged/sabre) 
 
