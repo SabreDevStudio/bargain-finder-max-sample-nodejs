@@ -3,7 +3,7 @@
 
 We offer an API called [Bargain Finder Max](https://developer.sabre.com/docs/read/rest_apis/air/search/bargain_finder_max). It’s a highly capable service empowering software developers to access Sabre’s advanced air shopping product to find the best air offers. It’s built to be fast, [flexible](http://files.developer.sabre.com/doc/providerdoc/shopping/BargainFinderMax_Help/BargainFinderMax_Help.htm#Getting_Started/FeaturesofBFM.htm), and highly customizable.
 
-Bargain Finder Max (BFM) is one of our more popular APIs.  It shows how developers can easily call Bargain Finder Max, parse the results, and display the content. Our goal is making it quicker for developers to get started using the API.
+Bargain Finder Max is one of our more popular APIs.  It shows how developers can easily call Bargain Finder Max, parse the results, and display the content. Our goal is making it quicker for developers to get started using the API.
 
 What does the sample app look like when it runs? Here’s a screen shot:
 
