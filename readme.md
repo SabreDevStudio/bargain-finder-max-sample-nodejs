@@ -87,7 +87,9 @@ Changing search criteria is easy. Simply open up the app’s source code, and lo
 
 Make use of this sample app as a testing tool. It’s a simple, flexible, jumping-off point for learning how to use Sabre APIs in general, and Bargain Finder Max in particular. Look up the [Bargain Finder Max docs](https://developer.sabre.com/docs/read/rest_apis/air/search/bargain_finder_max) and discover all that it can do. Find something interesting? Call it by changing the request attribute values found in the file [bfm_model.js.](./src/bfm_model.js) Save and run to see what new capabilities do. 
 
-Get in touch with us. GitHub allows communication through its repo-level issue and pull request channels. We also have an active community on [Stack Overflow.](https://stackoverflow.com/questions/tagged/sabre) 
+Get in touch with us. GitHub allows communication through its repo-level issue and pull request channels. Use the built-in [issues section.](https://github.com/SabreDevStudio/bargain-finder-max-sample-nodejs/issues)
+
+We also have an active community on [Stack Overflow.](https://stackoverflow.com/questions/tagged/sabre) 
 
 ## License
 
