@@ -15,6 +15,10 @@ You'll see this sample app is command-line driven, and text-only. The goal is re
 
 There's [an article](https://blog.developer.sabre.com/) serving as a partner to this sample app source code. You’ll find explanations and additional resources written in it to add context whenever possible. 
 
+## Watch the Screencast
+
+There's [a screencast-style, code walkthrough video,](https://www.youtube.com/watch?v=sBdcNMHBiiw) that shows a way to approach this source code.
+
 ## Setting-up the Sample App
 
 There are a few one-time only steps for installing pre-requisites listed below.
