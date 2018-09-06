@@ -13,7 +13,7 @@ You'll see this sample app is command-line driven, and text-only. The goal is re
 
 ## Read the Article
 
-There's [an article](https://blog.developer.sabre.com/) serving as a partner to this sample app source code. You’ll find explanations and additional resources written in it to add context whenever possible. 
+There's [an article](https://blog.developer.sabre.com/blog/2018/08/22/searching-best-air-offers-bargain-finder-max-api/) serving as a partner to this sample app source code. You’ll find explanations and additional resources written in it to add context whenever possible. 
 
 ## Watch the Screencast
 
